@@ -1,0 +1,4 @@
+Table
+chair
+Duster
+pen
